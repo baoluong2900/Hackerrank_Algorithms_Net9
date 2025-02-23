@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMeFirst", "SolveMeFirst\SolveMeFirst.csproj", "{58918BE0-AB51-4C7A-B354-9D5B0055EA41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "simpleArraySum\SimpleArraySum.csproj", "{2B9BC958-547D-4472-A238-F0B71FCC375A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{58918BE0-AB51-4C7A-B354-9D5B0055EA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58918BE0-AB51-4C7A-B354-9D5B0055EA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58918BE0-AB51-4C7A-B354-9D5B0055EA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9BC958-547D-4472-A238-F0B71FCC375A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9BC958-547D-4472-A238-F0B71FCC375A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9BC958-547D-4472-A238-F0B71FCC375A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9BC958-547D-4472-A238-F0B71FCC375A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
